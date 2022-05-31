@@ -1,0 +1,93 @@
+[
+    {
+        "id":1,
+        "image": "Kepek/apetmenu3.png",
+        "name":"Grilled Mushrooms",
+        "price":"350 RSD"
+    },
+    {
+        "id":2,
+        "image": "Kepek/apetmenu6.png",
+        "name":"Fried Cheese",
+        "price":"490 RSD"
+    },
+    {
+        "id":3,
+        "image": "Kepek/apetmenu9.png",
+        "name":"Stuffed peppers",
+        "price":"390 RSD"
+    },
+    {
+        "id":4,
+        "image": "Kepek/mainmenu12.png",
+        "name":"Shepard meat",
+        "price":"880 RSD"
+    },
+    {
+        "id":5,
+        "image": "Kepek/mainmenu4.png",
+        "name":"Karadjordjeva steak",
+        "price":"870 RSD"
+    },
+    {
+        "id":6,
+        "image": "Kepek/mainmenu8.png",
+        "name":"Grilled pljeskavica",
+        "price":"680 RSD"
+    },
+    {
+        "id":7,
+        "image": "Kepek/sidemenu2.png",
+        "name":"Shepard salad",
+        "price":"250 RSD"
+    },
+    {
+        "id":8,
+        "image": "Kepek/sidemenu4.png",
+        "name":"Baked potatoes",
+        "price":"190 RSD"
+    },
+    {
+        "id":9,
+        "image": "Kepek/sidemenu6.png",
+        "name":"Balkan salad",
+        "price":"230 RSD"
+    },
+    {
+        "id":10,
+        "image": "Kepek/desertmenu2.png",
+        "name":"Toplica pie with Black Cherry",
+        "price":"240 RSD"
+    },
+    {
+        "id":11,
+        "image": "Kepek/desertmenu4.png",
+        "name":"Pancakes",
+        "price":"240 RSD"
+    },
+    {
+        "id":12,
+        "image": "Kepek/desertmenu6.png",
+        "name":"Plazma cake",
+        "price":"300 RSD"
+    },
+    {
+        "id":13,
+        "image": "Kepek/drinkmenu5.png",
+        "name":"Mineral water “Knjaz” /0,25l/",
+        "price":"120 RSD"
+    },
+    {
+        "id":14,
+        "image": "Kepek/drinkmenu7.png",
+        "name":"Cappuccino",
+        "price":"150 RSD"
+    },
+    {
+        "id":15,
+        "image": "Kepek/drinkmenu8.png",
+        "name":"Nescafe",
+        "price":"170 RSD"
+    }
+    
+]
